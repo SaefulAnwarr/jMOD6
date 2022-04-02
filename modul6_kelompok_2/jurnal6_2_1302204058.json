@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Melvin",
+       "lastName": "Pasalli",
+       "gender": "male",
+       "age": 21,
+       "nim": "1302204068"
+    },
+    {
+      "firstName": "Saeful",
+      "lastName": "Anwar",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302204065"
+    },
+    {
+      "firstName": "Bellamy",
+      "lastName": "Kamil",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204086"
+    },
+    {
+      "firstName": "Asyraf",
+      "lastName": "Bilal",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302200010"
+    }
+  ]
+}
