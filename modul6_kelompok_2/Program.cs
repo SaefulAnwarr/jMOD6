@@ -6,13 +6,14 @@ using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace modul6_kelompok_2 // Note: actual namespace depends on the project name.
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            ReadJSON();
+            DataMahasiswa1302200010.ReadJSON();
+            TeamMembers1302200010.ReadJSON();
         }
     }
 }

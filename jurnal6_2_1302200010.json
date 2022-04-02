@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Bellamy",
+       "lastName": "Insan",
+       "gender": "male",
+       "age": 21,
+       "nim": "7349282382"
+    },
+    {
+       "firstName": "Deva",
+       "lastName": "Raja",
+       "gender": "male",
+       "age": 20,
+       "nim": "5678568567"
+    },
+    {
+       "firstName": "Melvin",
+       "lastName": "Pasali",
+       "gender": "male",
+       "age": 19,
+       "nim": "456754675"
+    },
+    {
+       "firstName": "Saeful",
+       "lastName": "Anwar",
+       "gender": "male",
+       "age": 18,
+       "nim": "376754675"
+    }
+  ]
+}
