@@ -5,28 +5,28 @@
        "lastName": "Insan",
        "gender": "male",
        "age": 21,
-       "nim": "7349282382"
+       "nim": "1302200086"
     },
     {
        "firstName": "Deva",
        "lastName": "Raja",
        "gender": "male",
        "age": 20,
-       "nim": "5678568567"
+       "nim": "1302204058"
     },
     {
        "firstName": "Melvin",
        "lastName": "Pasali",
        "gender": "male",
        "age": 19,
-       "nim": "456754675"
+       "nim": "1302204068"
     },
     {
        "firstName": "Saeful",
        "lastName": "Anwar",
        "gender": "male",
        "age": 18,
-       "nim": "376754675"
+       "nim": "1302204065"
     }
   ]
 }
